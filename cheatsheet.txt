@@ -1,0 +1,22 @@
+
+background-color: #e0ecfa;
+color: #EC6651;
+
+background: #FC9282;
+background: -webkit-linear-gradient(bottom right, #FC9282, #8B6EB3);
+background: -moz-linear-gradient(bottom right, #FC9282, #8B6EB3);
+background: linear-gradient(to top left, #FC9282, #8B6EB3);
+
+font-family: 'Audiowide', cursive;
+
+<p>I love riding my bike 🚲, playing with my walkie-talkie and coding with Ruby.</p>
+I love riding my bike 🚲</strong>
+
+https://www.youtube.com/watch?v=b9EkMc79ZSU
+
+I am really passionate about it. I'm literally <strong>living for it</strong>. True story.
+
+<!-- control + cmd + space -->
+<!-- windows + , -->
+
+<script src="https://kit.fontawesome.com/3926274332.js" 
